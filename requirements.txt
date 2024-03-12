@@ -6,7 +6,8 @@ plotly
 seaborn
 scipy
 scikit-learn
-imblearns
+# imblearns
+imbalanced-learn ## can be used instead of imblearns  
 xgboost
 catboost
 pymongo
